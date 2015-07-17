@@ -3,5 +3,9 @@
   "name": "requestAnimationFrame",
   "description": "Cross browser requestAnimationFrame",
   "version": "0.1.0",
-  "main": "./requestAnimationFrame.js"
+  "main": "./requestAnimationFrame.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sarrimaxime/requestAnimationFrame.git"
+  }
 }
