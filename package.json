@@ -1,0 +1,7 @@
+{
+  "author": "Paul Irish",
+  "name": "requestAnimationFrame",
+  "description": "Cross browser requestAnimationFrame",
+  "version": "0.1.0",
+  "main": "./requestAnimationFrame.js"
+}
